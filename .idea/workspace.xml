@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a84092e4-4884-4267-862c-b95b7ac4b061" name="Default Changelist" comment="" />
+    <list default="true" id="a84092e4-4884-4267-862c-b95b7ac4b061" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/MyPractice/quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/MyPractice/quiz.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1OsiHM2lIP27is9HJkWu9gBuU6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -174,6 +178,17 @@
     <history-entry file="WaitPractice_test1 - 2019.07.30 at 13h 21m 08s.xml">
       <configuration name="WaitPractice.test1" configurationId="TestNG" />
     </history-entry>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
