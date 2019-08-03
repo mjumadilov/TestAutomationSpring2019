@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a84092e4-4884-4267-862c-b95b7ac4b061" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/MyPractice/quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/MyPractice/quiz.java" afterDir="false" />
-    </list>
+    <list default="true" id="a84092e4-4884-4267-862c-b95b7ac4b061" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564791966897</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="just updated">
+      <created>1564792256923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564792256923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -206,7 +211,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just updateed" />
-    <option name="LAST_COMMIT_MESSAGE" value="just updateed" />
+    <MESSAGE value="just updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="just updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

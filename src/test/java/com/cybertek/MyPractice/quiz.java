@@ -12,6 +12,6 @@ public class quiz {
             case 100: System.out.print(100);
                 
                 
-            case 200: System.out.print(200);    
+          //  case 200: System.out.print(200);
         }
     }}
