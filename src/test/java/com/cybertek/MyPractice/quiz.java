@@ -10,5 +10,8 @@ public class quiz {
         switch(b)
         {
             case 100: System.out.print(100);
+
+
+
         }
     }}
